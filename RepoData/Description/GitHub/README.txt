@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔐️🇴.🇸🔏️📖️ The official documentation source repository for LocksmithOS, a tiny offline operating system and environment for storing sensitive information (such as passwords) and for use on passkey devices, an alternative to Yubi keys, and storing passwords on your primary hard drive.
