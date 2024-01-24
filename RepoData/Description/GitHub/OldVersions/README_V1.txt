@@ -1,0 +1,1 @@
+🔐️🇴.🇸🔏️📖️ The official documentation source repository for LocksmithOS, a tiny offline operating system and environment for storing sensitive information (such as passwords) and for use on passkey devices, an alternative to Yubi keys, and storing passwords on your primary hard drive.
